@@ -1,4 +1,4 @@
-# Legal App Prototype
+# LegalBuddy Prototype
 
 ## Overview
 This project is a prototype for a legal application designed to streamline case management and document handling for legal professionals. It demonstrates the use of C++ and Object-Oriented Programming (OOP) principles to create a modular, maintainable, and scalable application.
