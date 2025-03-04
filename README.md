@@ -23,4 +23,4 @@ This project is a prototype for a legal application designed to streamline case 
 
 ### Building the Project
 ```sh
-make
+
